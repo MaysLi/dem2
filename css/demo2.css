@@ -1,0 +1,43 @@
+body{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+/*进度条*/
+.progress {
+    margin-bottom: 15px;
+}
+/*头像*/
+.wh64 {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+}
+/*边距*/
+.mt15{
+     margin-top: 15px;
+}
+.page-header{
+    margin-top: 0;
+}
+.page-header h1{
+    margin: 0;
+    font-size: 16px;
+}
+/*user_search*/
+.user_search{
+    padding: 10px; border: 1px solid #ddd; border-top: none;
+}
+.alert{
+    margin: 15px;
+    margin-right: 0;
+}
+/*footer*/
+#footer{
+    font-weight: 400;
+    text-align: center;
+    padding: 20px;
+}
+
+
+
+
+
